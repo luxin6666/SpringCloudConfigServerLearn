@@ -6,4 +6,4 @@ eureka:
   client:
     service-url:
       defaultZone: http://peer1:7900/eureka/,http://peer2:6900/eureka/,http://peer3:5900/eureka/
-from: config-client-dev
+from: config-client-dev123
